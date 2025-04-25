@@ -297,7 +297,7 @@ textarea{
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgba(0,0,0, .8);
+  background-color: rgba(255, 0, 0, 0.8);
   backdrop-filter: blur(2px);
   width: 100%;
   height: 100%;
@@ -355,7 +355,7 @@ textarea{
   border: none;
   outline: none;
   font-size: var(--normal-font-size);
-  background-color: #333333;
+  background-color: #ff0808;
   color: var(--text-color);
 }
 
@@ -400,14 +400,14 @@ h4{
   right: 5px;
   width: 5px;
   height: 5px;
-  background: #000;
+  background: #e70000;
   border-radius: 50%;
 }
 
 .bar {
   width: 200px;
   height: 12.5px;
-  background: purple;
+  background: rgb(218, 5, 5);
   border-radius: 30px;
   transform: rotate(-15deg);
   animation: up-down6123 3s ease-in-out 1s infinite alternate;
