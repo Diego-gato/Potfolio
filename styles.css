@@ -355,7 +355,7 @@ textarea{
   border: none;
   outline: none;
   font-size: var(--normal-font-size);
-  background-color: #ff0808;
+  background-color: #ffffff;
   color: var(--text-color);
 }
 
@@ -400,14 +400,14 @@ h4{
   right: 5px;
   width: 5px;
   height: 5px;
-  background: #e70000;
+  background: #000000;
   border-radius: 50%;
 }
 
 .bar {
   width: 200px;
   height: 12.5px;
-  background: rgb(218, 5, 5);
+  background: rgb(68, 214, 0);
   border-radius: 30px;
   transform: rotate(-15deg);
   animation: up-down6123 3s ease-in-out 1s infinite alternate;
